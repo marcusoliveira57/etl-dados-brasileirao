@@ -1,0 +1,2459 @@
+id_atleta,nome_atleta
+1,Romário Guilherme dos Santos
+2,Ewerthon Diógenes da Silva
+3,Pedro Raul
+4,Erick Castillo
+5,Lucas Gazal
+6,Rodrigo Pinho
+7,Wesley Soares Xavier
+8,Gilsivan Soares da Silva
+9,Alemão
+10,Luis Manuel Orejuela
+11,Guilherme Oliveira Santos
+12,João Victor Santos Sá
+13,Jory
+14,Lucas Silva Borges
+15,Braian Aguirre
+16,Wesley Pombo
+17,Gabriel Veron
+18,Wallace Yan
+19,Danilo Tarracha
+20,Ricardinho
+21,Bryan Angulo
+22,Vinícius
+23,Sidnei
+24,Bruno Fuchs
+25,Bruno Cortês
+26,Valmir Lucas
+27,Nickson Gabriel Reis Silva
+28,Danilo Fernandes
+29,Mauricio Lemos
+30,Uendel Pereira Gonçalves
+31,Kaio César Andrade Lima
+32,Douglas Telles
+33,Nathan Silva
+34,Gabriel Appelt Pires
+35,Capixaba
+36,Paulinho Moccelin
+37,Andrey Santos
+38,Antônio Carlos dos Santos Aguiar
+39,Matheus Antunes Ribeiro
+40,Raí Ramos
+41,Éverton Cardoso da Silva
+42,Maik
+43,Mateus Claus
+44,Willian José de Souza
+45,José Rafael Vivian
+46,Marlon Freitas
+47,Antonio Thomaz Santos de Barros
+48,Adson
+49,Luiz Benedetti
+50,Ruan Tressoldi
+51,Renan Brito Soares
+52,Bruno Felipe Lima Teixeira
+53,Adriano Correia Claro
+54,Lucas Fasson
+55,Taylon Vinicius dos Santos Carvalho
+56,Ramiro
+57,Agustín Doffo
+58,João Basso
+59,José María Herrera
+60,Léo Linck
+61,Cassiano Dias Moreira
+62,Alejandro Guerra
+63,Walter Henrique da Silva
+64,Luan Garcia Teixeira
+65,Kelvin
+66,Vinicius Guedes
+67,Kadir Barría
+68,Marcelo Benítez
+69,Brenner Alves Sabino
+70,Khellven Douglas Silva Oliveira
+71,José Carlos Cracco Neto
+72,Vinícius Vasconcelos Araújo
+73,Guilherme Parede
+74,Óscar Ruiz
+75,John Lennon Silva Santos
+76,Arturo Vidal
+77,Romarinho
+78,Maílton dos Santos de Sá
+79,Willian
+80,Leonardo Moreira Morais
+81,Alex da Silva
+82,Gonzalo Carneiro
+83,Sebastián Ferreira
+84,Marquinho
+85,João Paulo Gomes da Costa
+86,Rodrigo Varanda
+87,Eduard Atuesta
+88,Willian Gomes de Siqueira
+89,Juan Maldonado Jaimez Júnior
+90,Guilherme Madruga
+91,Keny Arroyo
+92,Emanuel Brítez
+93,Brahian Palacios
+94,Luis Alberto Suárez
+95,Andrés Escobar
+96,Jonatan Cristaldo
+97,Marcelo Alves
+98,Neto Berola
+99,Néstor Camacho
+100,Crysan
+101,Anderson Leite Moraes
+102,Douglas Mendes
+103,Roberto Cereceda
+104,Michel Bastos
+105,Dida
+106,Arthur Brasiliano Maia
+107,Rildo de Andrade Felicissimo
+108,Miguel Borja
+109,Allan Vieira
+110,Sebastián Eguren
+111,Roger Duarte de Oliveira
+112,Mauro Boselli
+113,Nery Bareiro
+114,César Henrique Martins
+115,Clayson
+116,Judson Silva Tavares
+117,Wesley Dias Claudino
+118,Thiago Ribeiro
+119,Henrique Almeida
+120,Neilton Mestzk
+121,Marcos Paulo Costa do Nascimento
+122,Cleberson Martins de Souza
+123,Flavinho Valêncio
+124,Lucas Esteves
+125,Marcelo Rangel Rosa
+126,Christian Savio
+127,Charles Aránguiz
+128,Hyoran
+129,Everton Cebolinha
+130,Tomás Cuello
+131,Reynaldo Cesar Moraes
+132,Fernando Peixoto Costanza
+133,Paulo Vitor
+134,Carlos Sánchez
+135,Wesley Lopes Beltrame
+136,Leonardo Natel
+137,Benjamín Kuscevic
+138,Kléber
+139,Michael
+140,Elano
+141,Danilo Luiz da Silva
+142,Ebert Willian Amâncio
+143,Eduardo Jacinto de Biasi
+144,Lázaro Vinícius
+145,Pedro Botelho
+146,Evander
+147,Allan Marques Loureiro
+148,Anderson Talisca
+149,Ronald Falkoski
+150,Carlos Eduardo Santos Oliveira
+151,Jhon Cley
+152,Júnior Urso
+153,Francis Amuzu
+154,Matheus Gonçalves
+155,Railan dos Santos Reis
+156,Gustavinho
+157,André Santos
+158,Samuel Lino
+159,Kelvyn
+160,Jan Lucumí
+161,Aitor Cantalapiedra
+162,Abner Vinícius
+163,Thiago Galhardo
+164,Ananias Elói Castro Monteiro
+165,Agustín Marchesín
+166,Aderbar dos Santos Neto
+167,Gustavo Nescau
+168,Rafael Costa
+169,Max
+170,Mateo Sanabria
+171,Josef de Souza Dias
+172,Robson Reis
+173,Italo
+174,Fábio Santos
+175,Bruno Brígido
+176,Luan Patrick
+177,Andrevaldo Santos
+178,Igor Rabello
+179,Damián Musto
+180,Bento Matheus Krepski
+181,Christian Cueva
+182,Joel Tagueu
+183,José Hugo
+184,John
+185,Zé Roberto
+186,Carlos Gabriel Moreira de Oliveira
+187,Adrián Emmanuel Martínez
+188,Andrés D'Alessandro
+189,Jorge Carrascal
+190,Elierce Barbosa de Souza
+191,Paulo Marcos de Jesus Ribeiro
+192,Gabriel Taliari
+193,Fabiano da Silva Souza
+194,Maycon Douglas
+195,Arthur Henrique
+196,André Andrade de Castro
+197,Léo Moura
+198,Joaquín Correa
+199,Negueba
+200,Bruno Alves de Souza
+201,Philippe Coutinho
+202,Guilherme Amorim
+203,Liniker da Silva Moreira
+204,Diogo José Gonçalves da Silva
+205,Fabiano
+206,Calebe Gonçalves Ferreira da Silva
+207,Lucas Cavalcante Silva Afonso
+208,Luciano Castán
+209,Fernando Gabriel Vougado Ribeiro
+210,Emerson da Conceição
+211,Hélder Maurílio da Silva Ferreira
+212,César Pinares
+213,Clayton Sampaio
+214,Rayan
+215,Aderlan Silva
+216,Alan Franco Palma
+217,Alison Wágner Lira Ferreira
+218,Leandro Guerreiro
+219,Anderson Conceição
+220,Ricardo de Souza Silva
+221,Jefferson
+222,Valentín Depietri
+223,Kaio Silva Mendes
+224,Fellipe Mateus
+225,Adyson
+226,Diego Souza
+227,Rhaldney
+228,Derek
+229,Taiberson Ruan Menezes Nunes
+230,Romário de Souza Faria Júnior
+231,Felipe Menezes
+232,Renan Martins Pereira
+233,Zé Ricardo
+234,Claudinei Junio de Souza
+235,Luiz Philipe Lima Oliveira
+236,Daniel Borges
+237,Pará
+238,Lucas Arcanjo
+239,Patrick de Paula
+240,Henrique Dourado
+241,Júnior Brandão
+242,Bruno Henrique
+243,Marllon Borges
+244,Tiago Reis
+245,Camilo Reijers
+246,Dodô
+247,Jonny Mosquera
+248,Arthur Sales
+249,Maurício Garcez
+250,Wesley Ribeiro Silva
+251,Henrique Mattos
+252,Ángel Romero
+253,Neuton
+254,Alex Telles
+255,José Welison
+256,Léo Santos
+257,Vitor Mendes
+258,Allyson Aires dos Santos
+259,Matheus Dória Macedo
+260,Bruno Mezenga
+261,Jorginho
+262,José Marcos Costa Martins
+263,Ruan Oliveira
+264,Richard Ríos
+265,Luan Silva dos Santos
+266,Lucas Belezi
+267,Roniery
+268,Douglas Luiz
+269,Bruninho
+270,Leo Jardim
+271,Matheus Belém
+272,Matheus Salustiano
+273,Carlos Palacios
+274,Iago
+275,Tiaguinho
+276,Hugo Moura
+277,Gabriel Girotto Franco
+278,Jhegson Méndez
+279,Erick
+280,Gabriel Pereira Taliari
+281,Bruno da Mota
+282,Federico Barrandeguy Martino
+283,Alan Patrick
+284,Alex Paulo Menezes Santana
+285,Fábio Deivson Lopes Maciel
+286,Jóbson Leandro Pereira de Oliveira
+287,William Gomes
+288,Nílton Ferreira Júnior
+289,Lucas Lourenço Andrade
+290,Brenner Marlos Varanda de Oliveira
+291,Maikon Alves de Aquino
+292,James Rodríguez
+293,Fabricio
+294,Rodrigo Silva
+295,Victor Luis
+296,Matheus dos Santos Batista
+297,Jonathan Marlone
+298,Wesley Moraes
+299,Vinícius Paiva
+300,Romário
+301,Natan Bernardo de Souza
+302,Willians Santana
+303,Felipe Alves
+304,Chico
+305,Diego Rigonato
+306,Dionathã
+307,Caio Paulista
+308,Rodrigo Garro
+309,Weverson
+310,Adílson Warken
+311,João Paulo Bitello
+312,David Corrêa da Fonseca
+313,Hernani Azevedo Junior
+314,Gabriel Mercado
+315,Júlio César Jacobi
+316,Cleiton Schwengber
+317,Fausto Vera
+318,João Marcelo
+319,Henrique Silva Milagres
+320,Anderson de Jesus Santos
+321,Hugo Rodallega
+322,Moisés Ribeiro Santos
+323,Andrés Ríos
+324,Matheus Martinelli
+325,Ravanelli Ferreira dos Santos
+326,Cristian Martins Cabral
+327,Reginaldo Manoel da Silva Junior
+328,Judivan
+329,Danilo Silva
+330,Weverton
+331,Bruno Melo
+332,Breno Bidon
+333,Tiago
+334,Fábio Ferreira
+335,Titi
+336,André Dhominique
+337,Ricardo Conceição
+338,Patrick de Lucca
+339,Matheus Fernandes
+340,Bruno Tabata
+341,Rodriguinho
+342,Marcos Calazans
+343,Gabriel Barbosa
+344,Wellissol
+345,Guillermo De Los Santos
+346,Willian Maranhão
+347,Lucas Halter
+348,Gustavo Nonato
+349,Iván Angulo
+350,Gervásio Núñez
+351,Moacir Costa da Silva
+352,Ronaldo
+353,Mateus Norton
+354,Léo Borges
+355,Paulo Vitor Fernandes Pereira
+356,Marcos Antônio Candido Ferreira Júnior
+357,Ricardo Thalheimer
+358,Leonardo Gil
+359,Jonatan Gómez
+360,Alysson
+361,Alisson Machado dos Santos
+362,Gustavo Cuellar
+363,Pablo Guiñazú
+364,Gustavo Ermel
+365,Cristovam
+366,Marcos Vinicius Serrato
+367,Bruno César
+368,Carlos Miguel
+369,Jean Pyerre
+370,Moresche
+371,Anderson Luís de Abreu Oliveira
+372,Rodrigo Nestor Bertaglia
+373,Márcio Almeida de Oliveira
+374,Jonatan Álvez
+375,Emanuel Biancucchi
+376,Leonardo da Silva Vieira
+377,Renato Júnior
+378,Juan Carlos Ferreyra
+379,Guilherme Guedes
+380,Rodrigo Souto
+381,Gabriel Souza da Silva
+382,Henrique Lordelo
+383,Allano
+384,Henrique Souza
+385,Andrigo
+386,Jefferson Orejuela
+387,João Neto
+388,Bastos
+389,Fellipe Bastos
+390,Michel Ferreira dos Santos
+391,Gladestony
+392,Tomas Almino da Silva Bastos
+393,Caio Vidal
+394,Matheus Alvarenga de Oliveira
+395,Jô
+396,Matheus Martins Fogaça de Paulo
+397,Jorge Valdivia
+398,Dylan Borrero
+399,Saulo Mineiro
+400,Tomás Andrade
+401,Raul Prata
+402,Daniel de Pauli Oliveira
+403,Kayky
+404,Pio
+405,Danrlei Rosa Dos Santos
+406,Lourenço
+407,Everaldo Stum
+408,Eduardo José Diniz Costa
+409,Paulo Victor Mileo Vidotti
+410,Sávio Moreira de Oliveira
+411,Gabriel Vasconcellos Ferreira
+412,Leandro Barcia Montero
+413,Cipriano
+414,Jonathas Cristian de Jesus
+415,Wanderson Felipe Cardoso dos Santos
+416,Alípio
+417,Matheus Nolasco
+418,Keiller
+419,Guilherme Pato
+420,Martín Silva
+421,Bernardo Lemes
+422,Óscar Méndez
+423,Arthur Caike do Nascimento Cruz
+424,Kevin
+425,Feijão
+426,Léo Sena
+427,Yago Moreira Silva
+428,Jean Dias
+429,Rodinei Marcelo De Almeida
+430,José Gildeixon Clemente de Paiva
+431,Andrey
+432,Jesiel Cardoso Miranda
+433,Enner Valencia
+434,Thalles
+435,Ruan
+436,Erick Luis Conrado Carvalho
+437,Diego Tavares
+438,Ivan Cavaleiro
+439,Gilvan
+440,Marcelo da Conceição Benevenuto Malaquias
+441,Rodrigo Ramos
+442,Vágner Love
+443,Guilherme Gomes
+444,Fernando Prass
+445,Bruno Pereirinha
+446,Maxi López
+447,Luan Vinícius da Silva Santos
+448,Sandro Diego de Moraes Bueno
+449,Matheus Sávio
+450,Demerson Bruno Costa
+451,Charles Fernando Basílio da Silva
+452,Isaque Elias
+453,Anderson Sebastião Cardoso
+454,Otávio
+455,Eugenio Isnaldo
+456,Iago Sampaio Silva
+457,Ernando Rodrigues Lopes
+458,Sergio Palacios
+459,Douglas da Silva
+460,Bruno Vieira
+461,Leandro Lima
+462,Robson Bambu
+463,Óscar Romero
+464,Renan dos Santos
+465,Elicarlos
+466,Éverson
+467,Fernando Tobio
+468,Vitor Bueno
+469,Igor Cássio
+470,Mattheus Oliveira
+471,Maurício Cordeiro
+472,Edson Pereira Lisboa
+473,Paulo Miranda
+474,Willian Popp
+475,Luis Ramírez
+476,Luciano Rodríguez
+477,Jorge Luiz Frello Filho
+478,Rômulo José Cardoso da Cruz
+479,Leandro Silva
+480,Gabriel Carabajal
+481,Ryan
+482,Edson Ratinho
+483,Banguele
+484,Mansur
+485,Willian José
+486,Renan Lodi
+487,André Luis
+488,Fernando Guerrero
+489,Kauan Conceição Ferreira da Silva
+490,Marcelo Grohe
+491,Emerson Barbosa Rodrigues dos Santos
+492,Vítor Júnior
+493,Erick Pulga
+494,Germán Cano
+495,Bruno César Pereira da Silva
+496,Kelvin Mateus de Oliveira
+497,Kervin Andrade
+498,Mateo Zuleta
+499,Richard Franco
+500,Bruno Eduardo Moraes
+501,Fernando Marçal
+502,Souza
+503,Artur
+504,Éverton Silva
+505,Thiago Couto
+506,Marinaldo dos Santos Oliveira
+507,João Lucas de Almeida Carvalho
+508,Bissoli
+509,Emmanuel Martínez
+510,Eduardo Henrique
+511,José Fernando Viana de Santana
+512,Iury Lirio Freitas de Castilho
+513,Beto da Silva
+514,Arthur Cabral
+515,Sherman Cárdenas
+516,Felipe Anderson
+517,Ewerthon Ewerthon
+518,Marcos Ytalo Benício da Silva
+519,Cesar
+520,Bruno Peres
+521,Thalisson Gabriel
+522,Lucas Ferrugem
+523,Ivonei
+524,Éber Bessa
+525,Neném
+526,Werik Popó
+527,Arthur Rodrigues Rezende
+528,Fernando Henrique Pereira
+529,Thiago Santos
+530,Felipe Vizeu
+531,Gabriel Tota
+532,Mateus Carvalho
+533,Guilherme Biteco
+534,Leandro Carvalho
+535,Giovani Henrique
+536,Bruno Pacheco
+537,Gustavo Canales
+538,Marcos Roberto da Silva Barbosa
+539,Raúl Silva
+540,Matheus Carvalho
+541,Higor Meritão
+542,Anselmo Ramon
+543,Ademilson
+544,Lucas Crispim
+545,Matheus Peixoto
+546,Douglas Moreira Pires
+547,Ralf de Souza Teles
+548,Fahel
+549,Felipe Augusto de Almeida Monteiro
+550,Gabriel Pec
+551,Guilherme Costa Machado Silveira
+552,Ribamar
+553,Édson José da Silva
+554,Aylon
+555,Jhon Arias
+556,Robert Arboleda
+557,Cauan Barros
+558,Luan Cândido
+559,Giovanni Piccolomo
+560,Telmário de Araújo Sacramento
+561,Fernando Uribe
+562,Wescley
+563,Matheus Bahia Santos
+564,Ronaldo Conceição
+565,Cesinha
+566,Antônio Josenildo Rodrigues de Oliveira
+567,Mario Bolatti
+568,Vitor Feijão
+569,Anderson de Oliveira da Silva
+570,Mateo Gamarra
+571,Bruno Aguiar
+572,Rómulo Otero
+573,Josué Anunciado de Oliveira
+574,Bruno Gomes
+575,Wellington Nem
+576,Lucas Belezi Barbosa
+577,Breno Vinícius Rodrigues Borges
+578,Vanderlei Farias da Silva
+579,Domilson Cordeiro dos Santos
+580,Gustavo Nonato Santana
+581,Gustavo Ferrareis
+582,Nádson da Silva Almeida
+583,Alexandre Egea
+584,Rafael Diniz Alves e Silva
+585,Tinga
+586,Matheus Cotulio Bossa
+587,Dawhan
+588,Dudu Cearense
+589,Claudinho
+590,Junior
+591,Nathan Otávio Ribeiro
+592,Luiz Otávio da Silva Santos
+593,Miguel Trauco
+594,Janderson
+595,Renê Júnior
+596,Tomás Pochettino
+597,Samuel Xavier
+598,Filipe Luís
+599,Igor Torres
+600,Wellington Soares da Silva
+601,Joelinton Cassio Apolinário de Lira
+602,Pablo Zeballos
+603,Luis Mandaca
+604,Jajá Coelho
+605,Richard de Oliveira Costa
+606,Cristhian Rivas
+607,Francisco Alves da Silva Neto
+608,Kaio Jorge
+609,Patrick de Oliveira Vieira
+610,Welington
+611,Gabriel Boschilia
+612,Álvaro Pereira
+613,Yesus Cabrera
+614,Diego Porfírio
+615,Pablo Diogo Lopes de Lima
+616,Lucas Ramos
+617,Lucas Olaza
+618,Evandro da Silva
+619,Jean Carlos Guimarães dos Santos
+620,Dimitri Payet
+621,Diego Jara Rodrigues
+622,Lucas Perri
+623,Mike dos Santos Nenatarvicius
+624,Vítor Jacaré
+625,João Marcos Lima Candido
+626,Vitor Gabriel
+627,Eduardo Pereira Rodrigues
+628,Muriqui
+629,Gustavo Sauer
+630,Maurinho
+631,Julio dos Santos
+632,Rafael Marques Mariano
+633,Reginaldo
+634,Rodrigo Aguirre
+635,Rodrigo Baldasso da Costa
+636,Samir
+637,Chrystian Barletta
+638,Léo Chú
+639,Nilton Soares Rodrigues
+640,Thiaguinho
+641,Pablo Marí Villar
+642,Vitor Hugo Batista Araujo de Mendonça
+643,Tiago dos Santos Alves
+644,Juan Sánchez Miño
+645,Juan Silveira dos Santos
+646,Ibson Barreto da Silva
+647,Alex Santana
+648,Marcelo Hermes
+649,Nixon Darlanio Reis Cardoso
+650,Héctor Bustamante
+651,Mateus Gonçalves Martins
+652,Chrigor
+653,Wilson Rodrigues de Moura Júnior
+654,Patrick
+655,Lucas Freitas
+656,Sebastião Ênio Santos de Almeida
+657,Wesley de Jesus Correia
+658,Matheus Menezes Jácomo
+659,Morato
+660,Adniellyson da Silva Oliveira
+661,Franco Cristaldo
+662,Wellington Paulista
+663,Ronaldo Henrique Silva
+664,Bruno Ferreira Melo
+665,Lucas Santos
+666,Pablo Vegetti
+667,Bruno Viana
+668,Luiz Fernando Pereira da Silva
+669,Wallyson
+670,Elias Mendes Trindade
+671,Andreas Samaris
+672,Ígor Jesus
+673,Miller Bolaños
+674,Victor
+675,Alesson
+676,Thiago Maia
+677,Bruno Martins Teles
+678,Alisson Santana
+679,Thales
+680,Lucas Vinicius Gonçalves Silva
+681,Erick Farias
+682,João Lucas
+683,Juanfran
+684,Junior Alonso
+685,Bruno Méndez
+686,Gabriel Pereira dos Santos
+687,Fábio Pereira da Silva
+688,Mark González
+689,Maxime Dominguez
+690,Brenno Oliveira Fraga Costa
+691,Allan Rodrigues de Souza
+692,Rafael Ratão
+693,Feliciano Brizuela
+694,Renzo López
+695,Matheus Cavichioli
+696,Rodrigo Battaglia
+697,Nikão
+698,Luiz Antônio de Souza Soares
+699,Edson Felipe da Cruz
+700,Marcelo Augusto Mathias da Silva
+701,Valdemir de Oliveira Soares
+702,André Lima
+703,Emerson Rodríguez
+704,César González
+705,Rafael Santos Borré
+706,Lucas Di Yorio
+707,Luis Sinisterra
+708,Edson
+709,Werton
+710,Fagner
+711,Yuri Antonio Costa da Silva
+712,Robert Piris da Motta
+713,Rodrigo Mancha
+714,Guilherme Camacho
+715,Messias Rodrigues da Silva Júnior
+716,Lucas Coelho
+717,Walter Kannemann
+718,Tiago Luis Volpi
+719,Caio Vidal Rocha
+720,Fabrício dos Santos Silva
+721,Eduardo Sasha
+722,José Guilherme Guidolin Pegorari
+723,Giovanny
+724,Leonardo Gomes
+725,Caio Alexandre
+726,Betinho
+727,Renan Ribeiro
+728,Marcos Victor
+729,Ferreirinha
+730,Airton
+731,Danilo Gomes
+732,Daniel Corrêa Freitas
+733,Dalberto
+734,Raniel
+735,Hélio Junio Nunes de Castro
+736,Kawan
+737,Paulo Baya
+738,Denílson Pereira Júnior
+739,Lyanco
+740,Guzmán Rodríguez
+741,Luan Peres Petroni
+742,Dudu Vieira
+743,Marcos Antônio de Lima
+744,Mailson
+745,Fernando Augusto Pereira Bueno Júnior
+746,Túlio de Melo
+747,Marinho
+748,Fabinho
+749,Igor Jesus
+750,Cristian Renato
+751,Pablo de Barros
+752,Luiz Henrique
+753,William
+754,Wellington Cézar Alves de Lima
+755,Pepê
+756,Victor Vinícius Coelho Santos
+757,Jadson
+758,Rodrigo Ely
+759,Thiago Martins Bueno
+760,Jonas Jessué da Silva Júnior
+761,Lucas Beraldo
+762,Madson
+763,Matheus Martins
+764,Pedro Henrique
+765,Kaiky Naves
+766,Jhon Vásquez
+767,Márcio Rodrigues Araújo
+768,Vanderlan
+769,Michael Arroyo
+770,Rafael Ramos
+771,Thalles Lima de Conceição Penha
+772,Junior Sornoza
+773,Guilherme
+774,Júlio Baptista
+775,Matías Pisano
+776,Paulo Roberto Valoura Junior
+777,Jonathan
+778,Érico Júnior
+779,Dierson
+780,Eduardo Simioni
+781,Nathan Allan de Souza
+782,Léo Gamalho
+783,Gabriel Inocêncio
+784,Luis Manuel Seijas
+785,Maurício
+786,Guga
+787,Roberto Heuchayer
+788,Richarlison
+789,Igor Paixão
+790,Alan Cardoso de Andrade
+791,Jonas Gomes de Sousa
+792,Cauly
+793,Marcelo Costa
+794,Paulo César Tinga
+795,Marco Ruben
+796,Igor Inocêncio de Oliveira
+797,Ewandro
+798,Alfredo Morelos
+799,Nicolás Federico López
+800,André Moritz
+801,Danilo Cardoso
+802,Lucas Ramon Batista Silva
+803,Alan Ruiz
+804,Saldanha
+805,Ángelo Henríquez
+806,Marcos Vinícius de Jesus Araújo
+807,Leonan
+808,Léo Mana
+809,Chay
+810,Caique Sá
+811,Juninho Capixaba
+812,Dorlan Pabón
+813,André Carrillo
+814,Wenderson
+815,Jhonata Robert Alves da Silva
+816,Léo Naldi
+817,Kayque
+818,Christianno
+819,Cristian Riveros
+820,Murillo
+821,Walace
+822,Adryelson
+823,Rafael Moura
+824,Edu
+825,Renato Dirnei Florêncio
+826,Thiago Emiliano da Silva
+827,Lucas Campos
+828,Rafael Lucas Cardoso dos Santos
+829,Yannick Bolasie
+830,André Luiz Santos Dias
+831,David
+832,Rafinha
+833,Fernandes
+834,Willian Machado
+835,Felipe Aguilar
+836,Brayan Ceballos
+837,Rodrigo Lindoso
+838,Alan Santos da Silva
+839,Geovane
+840,Japa
+841,Marcos Paulo
+842,Murilo Henrique Pereira Rocha
+843,Lucca Borges de Brito
+844,Lincoln Cássio de Souza Soares
+845,Denner Fernando Melz
+846,Lucas Braga
+847,Leanderson da Silva Genésio
+848,Camilo
+849,Igor Gomes
+850,Zé Vitor
+851,Reinaldo Lenis
+852,Ednei Barbosa de Souza
+853,Cícero Santos
+854,Pedrinho
+855,Rafael Miranda
+856,Carlos Augusto Zopolato Neves
+857,Gabriel Teixeira
+858,Emerson Batalla
+859,Marlon Gomes
+860,Jesús Dátolo
+861,José Hurtado
+862,Fabio Pereira da Silva
+863,Ezequiel Santos da Silva
+864,Rodney Wallace
+865,Alef Vieira Santos
+866,Maurício Magalhães Prado
+867,Gabriel José Ferreira Mesquita
+868,Ibañez
+869,Eduardo Kunde
+870,Rodrygo Silva de Goes
+871,Diego Rosa
+872,Ignacio Jara
+873,Ivan Aparecido Martins
+874,Felipe Jonatan
+875,Gabriel Pirani
+876,Jonathan Francisco Lemos
+877,Éderson
+878,Jean Patrick Reis
+879,Gustavo Schiavolin
+880,Thiago dos Santos
+881,Vagner Antônio Brandalise
+882,Clayson Henrique da Silva Vieira
+883,Paulo Bóia
+884,Guillermo Varela
+885,Hudson
+886,Gustavo Gómez
+887,Bruno Rangel
+888,Jorge Mendoza
+889,Diego Hernández
+890,Aloísio dos Santos Gonçalves
+891,Éder
+892,Lucas Gabriel Ribeiro Firmo
+893,Arthur
+894,Roger Carvalho
+895,Marcelinho Paraíba
+896,Andrey Nunes dos Santos
+897,Otávio Henrique Santos
+898,Lucca Prior
+899,Jaime Alvarado
+900,Liziero
+901,Luiz Otávio Santos de Araújo
+902,Shaylon
+903,Lucas Ribeiro
+904,Gustavo Mantuan
+905,Christian Roberto Alves Cardoso
+906,Leandro Bambu
+907,Thiago Almada
+908,Pablo Cepellini
+909,Kauê Rodrigues Pessanha
+910,Gabriel Dias
+911,Nicolas
+912,Damián Bobadilla
+913,Luizão
+914,Rodrigo Sam
+915,Victor Bobsin
+916,Alef Manga
+917,Fred
+918,Bruno Henrique Corsini
+919,Agustín Rossi
+920,Rivaldo Barbosa de Souza
+921,Jesé Rodríguez
+922,Ricardo Silva
+923,Vinicius Zanocelo
+924,Rafael Santos
+925,Ronaldo Alves
+926,David Neres Campos
+927,Dankler
+928,Andrei Girotto
+929,Gustavo Henrique Vernes
+930,Willian Arão
+931,Eduardo Santos
+932,João Miranda de Souza Filho
+933,Jucimar José Teixeira
+934,William Henrique
+935,Lucas Alario
+936,Léo Cittadini
+937,Kadu
+938,Bruno Sávio
+939,Julián Palacios
+940,Mikael
+941,Jown Cardona
+942,Everton Morelli
+943,Mario Sérgio
+944,Davi Goes
+945,Hugo Souza
+946,Gonzalo Mastriani
+947,Matías Zaracho
+948,Ronaldo da Silva Souza
+949,João Ricardo Riedi
+950,Victor Oliveira
+951,Marcio Antonio de Sousa Junior
+952,Ricardo Graça
+953,Chris Ramos
+954,Dudu
+955,João Carlos
+956,Raí Nascimento de Oliveira
+957,Hulk
+958,Danny Morais
+959,Mancini
+960,Everaldo
+961,Fabricio Santos de Jesus
+962,Yuri Oliveira Lima
+963,Luan Guilherme de Jesus Vieira
+964,Daniel Júnior
+965,Keslley dos Santos Lopes
+966,Ricardinho Viana
+967,Lucas Fernandes da Silva
+968,Victor Ramos
+969,Bochecha
+970,Giuliano Victor de Paula
+971,Ruy Franco de Almeida Junior
+972,Renan Guedes
+973,Fabrício Daniel de Souza
+974,Diego Henrique Costa Barbosa
+975,Ignacio Laquintana
+976,Kenedy
+977,Ronie Carrillo
+978,Gui Azevedo
+979,Henrique Pacheco Lima
+980,Marco Antonio Rosa Furtado Júnior
+981,Felipe de Oliveira Silva
+982,Nenê Bonilha
+983,Everton
+984,André Luiz Paulino de Souza Motta
+985,Nuno Moreira
+986,Sander Henrique Bortolotto
+987,Lucas Calegari
+988,Kayke Moreno
+989,Claudio Aquino
+990,Luciano Rodriguez
+991,Vander Luiz Silva Souza
+992,Iago Mendonça
+993,Ricardo Centurión
+994,Lucas Kal
+995,Roberson
+996,Marcos Assis de Santana
+997,Renato Baruffi
+998,Gabriel Sara
+999,Ricardo Mathias
+1000,Matheus França Silva
+1001,Muriel Becker
+1002,Da Silva
+1003,Wesley Gassova
+1004,Marcelo Lomba
+1005,Wesley Gassova Ribeiro Teixeira
+1006,Jean Pedroso
+1007,Marcos de Paula Dutra
+1008,Douglas Grolli
+1009,Neto Coruja
+1010,Alix Vinicius
+1011,Robson Fernandes
+1012,Allan
+1013,Alisson Becker
+1014,Yuri César
+1015,Clayton Sales
+1016,Lucas Gomes
+1017,Marcos Danilo Padilha
+1018,Juan de Dios Pintado Leines
+1019,Ayrton Ganino
+1020,Paulo
+1021,Leonardo Pinheiro
+1022,Alan Kardec
+1023,Artur Victor Guimarães
+1024,Jeffinho
+1025,Raniele
+1026,Tiago Real
+1027,Michael Vinicius Silva de Morais
+1028,Camutanga
+1029,Dada
+1030,Eliel
+1031,Makton
+1032,Marcelo Cirino da Silva
+1033,Éder Militão
+1034,Edílson Mendes Guimarães
+1035,Kaiki Bruno
+1036,Bruno Cosendey
+1037,Nicolás Otamendi
+1038,Sérgio Manoel Barbosa Santos
+1039,José Luis Rodríguez Bebanz
+1040,Luiz Carlos dos Santos Junior
+1041,Rodinei de Almeida
+1042,Hélio Hermito Zampier Neto
+1043,Rodrigo Alves Soares
+1044,Ederson Honorato Campos
+1045,Luis Henrique
+1046,Leonel Di Plácido
+1047,Josimar
+1048,Clayton da Silveira da Silva
+1049,Jadsom
+1050,Luis Felipe Oyama
+1051,Agustín Giay
+1052,Vinicius Kauê
+1053,Yimmi Chará
+1054,Tomás Cardona
+1055,Élvis Vieira Araújo
+1056,Juan Martín Lucero
+1057,André Silva
+1058,Wesley
+1059,Ednei
+1060,Douglas Augusto Soares Gomes
+1061,Mateo Ponte
+1062,Xavier
+1063,Busanello
+1064,Marciel Silva da Silva
+1065,Maurício Azevedo Alves
+1066,Alex Teixeira
+1067,Agustín Allione
+1068,Lázaro Luan Scapolan
+1069,Diego Renan
+1070,Arnaldo Manoel de Almeida
+1071,Lopes Guilherme
+1072,Lautaro Díaz
+1073,Biro-Biro
+1074,Antonio Galeano
+1075,Gabriel Menino
+1076,Gustavo Torres
+1077,Andrezinho
+1078,Anderson
+1079,Víctor Cantillo
+1080,Wellington Simião
+1081,Bruno da Silva Barbosa
+1082,Lucas Braga Ribeiro
+1083,Sandry Roberto
+1084,Cláudio Winck
+1085,Lucimar da Silva Ferreira
+1086,Marcinho
+1087,Gatito Fernández
+1088,Wellington Aparecido Martins
+1089,Renatinho
+1090,Emiliano Vecchio
+1091,Adam Bareiro
+1092,Thiago Heleno
+1093,Alexander Barboza
+1094,Wanderley de Jesus Sousa
+1095,Eduardo Neto
+1096,José Mário de Bona
+1097,Luis Caicedo Medina
+1098,Danilo dos Santos de Oliveira
+1099,Matheus Frizzo
+1100,Rafael Longuine
+1101,Vinícius Santos Silva
+1102,Rafael Navarro
+1103,Maximiliano Rodríguez Maeso
+1104,Igor Coronado
+1105,Rogisvaldo João dos Santos
+1106,Hernanes
+1107,Murilo Cerqueira
+1108,Luiz Felipe
+1109,Bruno da Silva Costa
+1110,Vinicius Mingotti
+1111,Paulo Henrique
+1112,Danilo
+1113,Jarlan Pinheiro da Silva
+1114,Ramiro Moschen Benetti
+1115,Gustavo Maia
+1116,Yony González
+1117,Agenor
+1118,Douglas Santos
+1119,José Rodolfo Pires Ribeiro
+1120,Yeferson Soteldo
+1121,Matheus Reis
+1122,Silvinho
+1123,Deivid Washington
+1124,Wellington Alves da Silva
+1125,Jocinei
+1126,França
+1127,Miguel Merentiel
+1128,Yago Rocha
+1129,Guilherme Gimenez de Souza
+1130,Gualberto
+1131,Henrique Adriano Buss
+1132,Alejo Cruz
+1133,Fernando Reges
+1134,Jomar Herculano Lourenço
+1135,Gabriel Bontempo
+1136,Du Queiroz
+1137,Roger Rodrigues da Silva
+1138,Mariano Trípodi
+1139,Carlos Henrique Alves Pereira
+1140,Leandro Castán
+1141,David Sousa Albino
+1142,Brenner
+1143,Rodrigo Fagundes de Freitas
+1144,Rodrigo Pimpão
+1145,Guti
+1146,Lucas Barros
+1147,Auro
+1148,Agustín Rogel
+1149,Matías Rojas
+1150,Marcelino Moreno
+1151,Yarlen
+1152,Tiago Cardoso
+1153,Henry Mosquera
+1154,Yan Sasse
+1155,Danilo Boza
+1156,Daniel
+1157,Manuel Capasso
+1158,Ian Luccas
+1159,Luiz Silva Filho
+1160,Bryan Mascarenhas
+1161,Machado
+1162,Felipe Teresa
+1163,Rafael Bruno Cajueiro da Silva
+1164,Jesús Trindade
+1165,Leonardo Renan Simões de Lacerda
+1166,Matheus Hanauer Bertotto
+1167,Arthur Chaves
+1168,Nonoca
+1169,Ronei Gebing
+1170,Kauã Elias
+1171,Wallace
+1172,Gabriel
+1173,Carlos Alberto
+1174,Fillipe Soutto
+1175,Serginho
+1176,Higor
+1177,Matheuzinho
+1178,Tiago Machowski
+1179,Iury de Oliveira Nascimento
+1180,Jandrei
+1181,Éderson Alves Ribeiro Silva
+1182,Rossicley Pereira da Silva
+1183,Giovanni Augusto
+1184,Alexsander
+1185,Rosinei
+1186,Miguel Monsalve
+1187,Nino Paraíba
+1188,Matías Lacava
+1189,Grafite
+1190,Lucas Mugni
+1191,Fessin (futebolista)
+1192,Alexandre Alemão
+1193,Ricardo Oliveira
+1194,Bruno Henrique Marques Torres
+1195,João Peglow
+1196,Gabriel Grando
+1197,Felipinho
+1198,Saulo
+1199,Thiago Dombroski
+1200,Vanderson de Oliveira Campos
+1201,Neris
+1202,Flávio Medeiros da Silva
+1203,Luiz Adriano
+1204,Evandro Goebel
+1205,João Victor de Souza Menezes
+1206,Rafael Bilú
+1207,Patric
+1208,Charles Marcelo da Silva
+1209,Leo Fernández
+1210,Lucas Moura
+1211,Nathan
+1212,Thiego
+1213,Bruno Uvini
+1214,Wagner Ricardo Silva da Silva
+1215,Lucca Holanda Sampaio Tavares
+1216,Emiliano Rigoni
+1217,Vinicius Balieiro
+1218,Caique de Jesus Gonçalves
+1219,Malcom Filipe Silva de Oliveira
+1220,Germano Borovicz Cardoso Schweger
+1221,Vitor Leque
+1222,Ewerton Páscoa
+1223,Ygor Maciel Santiago
+1224,Rafael Pires Monteiro
+1225,Nilson
+1226,Danilo Avelar
+1227,Cleiton Xavier
+1228,Bruno Zapelli
+1229,Luis Segovia
+1230,Saimon Pains Tormen
+1231,Lucas Barbosa
+1232,Leandro Luis Desábato
+1233,Márcio Azevedo
+1234,Lucas Piton
+1235,Matheus Henrique de Souza
+1236,Luiz Fernando Moraes dos Santos
+1237,Ramon de Morais Motta
+1238,Mateus Henrique
+1239,Andrés Hurtado
+1240,Pablo Castro
+1241,Mateus Ferreira
+1242,Fabrício Bruno
+1243,Rafael da Silva
+1244,Marcelo José de Lima Filho
+1245,Willian Rocha
+1246,Ewerton Diógenes Da Silva
+1247,Marcelo Toscano
+1248,Julio Cesar de Rezende Miranda
+1249,Marthã
+1250,Derik Lacerda
+1251,Yerry Mina
+1252,Ligger Moreira Malaquias
+1253,Leonardo Godoy
+1254,Elton Junior Melo Ataíde
+1255,Lincoln Henrique Oliveira dos Santos
+1256,Lucas Rios Marques
+1257,Marcos Leonardo
+1258,Márcio José Oliveira
+1259,Daniel Alves
+1260,Guilherme Biro
+1261,Richard
+1262,Guilherme Milhomem Gusmão
+1263,Jordi
+1264,Matheus Mendes
+1265,Gabriel Noga
+1266,Sidcley
+1267,Gilberto dos Santos Souza Júnior
+1268,Thaciano
+1269,Jailton
+1270,Vinícius Lopes
+1271,Mateus Vital
+1272,Rafael Galhardo
+1273,Maxi Biancucchi
+1274,Óscar Estupiñán
+1275,Paulo Roberto da Silva
+1276,Victor Hugo
+1277,Hugo Mallo
+1278,Luiz Felipe Ventura dos Santos
+1279,Airton Ribeiro Santos
+1280,Anderson Martins
+1281,Gustavo Blanco
+1282,Wellington da Silva Pinto
+1283,Dráusio Luis Salla Gil
+1284,Nahuel Bustos
+1285,Rodrigo Muniz
+1286,Marcos Aurélio de Oliveira Lima
+1287,Augusto
+1288,Matías Rodríguez
+1289,Wagner Leonardo
+1290,Lucas Pierre Santos Oliveira
+1291,Diego Ribas
+1292,João Pedro Maturano dos Santos
+1293,João Moreira
+1294,Gilson Gomes do Nascimento
+1295,Gonzalo Freitas
+1296,Paulo Ricardo Ferreira
+1297,Bruno Rodrigo
+1298,Didira
+1299,Germán Conti
+1300,Matheus Alexandre Anastácio de Souza
+1301,Giuliano Galoppo
+1302,Erick Pulgar
+1303,Jemmes
+1304,Douglas da Silva Teixeira
+1305,Lucas Barrios
+1306,André Luiz
+1307,Francisco Soares
+1308,Robert
+1309,Fábio Farroco Braga
+1310,Paulo Victor
+1311,Róger Guedes
+1312,Marquinhos Pedroso
+1313,André
+1314,Rafael Pereira da Silva
+1315,Ramires
+1316,Cléber
+1317,Diego Lugano
+1318,José Joaquim de Carvalho
+1319,Gustavo Campanharo
+1320,Matheus Rossetto
+1321,Danilo Lopes Cezario
+1322,Max Alves
+1323,Aranha
+1324,Joao Rojas
+1325,Victor Ferraz
+1326,Rafael Forster
+1327,Douglas Moreira
+1328,Joseilson Batista dos Santos
+1329,Savinho
+1330,Mila
+1331,Gary Medel
+1332,Felipe Araruna
+1333,Yuri Alberto
+1334,Lucas Piazon
+1335,Leandro Salino
+1336,Jorge Henrique
+1337,Lenon Fernandes Ribeiro
+1338,André Anderson
+1339,Gabriel Carvalho
+1340,Diguinho
+1341,Carlos Alberto Gomes de Jesus
+1342,Deyvison Rogério da Silva
+1343,Gabriel Novaes
+1344,Carlos Vinícius
+1345,Raphael Alemão
+1346,Matheus Bueno
+1347,Matheus Dantas
+1348,Jean Mota Oliveira de Souza
+1349,Luiz Ricardo Alves
+1350,Calyson
+1351,Marcos Júnior
+1352,José Carlos Ferreira Júnior
+1353,Raúl Cáceres
+1354,Ramon
+1355,Luis Cáceres
+1356,Alex
+1357,Talles Magno
+1358,Otávio Henrique Passos Santos
+1359,Caio Vinícius da Conceição
+1360,Jonathan Cafú
+1361,Jamerson Bahia
+1362,Maycon de Andrade Barberan
+1363,Juan Manuel Salgueiro
+1364,Jefferson Nogueira
+1365,Júnior Tavares
+1366,Matheus Biteco
+1367,Fábio Silva de Freitas
+1368,Habraão
+1369,Matheus
+1370,Santiago Tréllez
+1371,Hugo Ragelli
+1372,Gabriel Silva
+1373,Matheus Felipe Santos Nascimento
+1374,Ángelo Araos
+1375,Savio Antonio Alves
+1376,Fernando Sobral
+1377,Ralph
+1378,Marcelo Oliveira Ferreira
+1379,Osvaldo Filho
+1380,Raphael Guzzo
+1381,Vina
+1382,Mateus Caramelo
+1383,Danilinho
+1384,Fernando Viana
+1385,Mateus Sarará
+1386,Rafael Silva dos Santos
+1387,Fábio Sanches
+1388,Tailson Pinto Gonçalves
+1389,Miguel Samudio
+1390,Alexandre Pato
+1391,Rodrigo Biro
+1392,Carlos Emiliano Pereira
+1393,Luccas Claro
+1394,Pedro Henrique Silva dos Santos
+1395,Camilo Cándido
+1396,Fabrizio Peralta
+1397,Alex Raphael Meschini
+1398,Renan Victor da Silva
+1399,Rhayner
+1400,Andrés Chávez
+1401,Matheus Babi
+1402,Rômulo José Pacheco da Silva
+1403,Cayo Tenório
+1404,Giorgian de Arrascaeta
+1405,Bressan
+1406,Fabrício de Souza
+1407,Rafael
+1408,Bruno Rodrigues
+1409,Cadu
+1410,José Breno
+1411,Marcio
+1412,Giovane Santana do Nascimento
+1413,Estêvão
+1414,Jhoanner Chávez
+1415,Tevis Gabriel
+1416,Rafael Cabral Barbosa
+1417,Romildo Del Piage
+1418,William Alves
+1419,Marcelo Machado dos Santos
+1420,Ramón Sosa
+1421,Rafael de Souza Pereira
+1422,Víctor Cuesta
+1423,Matheus Bidu
+1424,Jean Lucas Oliveira
+1425,Anderson Salles
+1426,Hugo da Silva Cabral
+1427,Rodrigo Alves de Holanda Santos
+1428,Ronaldo Mendes
+1429,Maurício Ramos
+1430,Jael
+1431,Diego Costa
+1432,Héctor José Hernández Marrero
+1433,Antony Matheus dos Santos
+1434,Matías Segovia
+1435,Gustavo Mosquito
+1436,Lucas Fonseca
+1437,Osman
+1438,Gui Negão
+1439,Sergio Antonio De Luiz Junior
+1440,Rickson
+1441,Gonzalo Escobar
+1442,Marcos Felipe de Freitas Monteiro
+1443,Alan Franco
+1444,Raul Gustavo Pereira Bicalho
+1445,Nicolás Freitas
+1446,Guilherme Lopes de Almeida
+1447,Lucas Esquivel
+1448,Emerson Sheik
+1449,Olávio Vieira dos Santos Júnior
+1450,Leandro Costa Miranda Moraes
+1451,Lorran Lucas Pereira de Souza
+1452,Daniel Ruiz Rivera
+1453,João Figueiredo
+1454,Sandro
+1455,Gerson
+1456,Keirrison
+1457,Wallace Fortuna dos Santos
+1458,Gabriel Furtado
+1459,Yani Quintero
+1460,Nirley da Silva Fonseca
+1461,João Victor
+1462,Matheus Santos
+1463,Durval
+1464,Magno Jose da Silva
+1465,Paulo Baier
+1466,Mauricio Isla
+1467,Lucas Besozzi
+1468,Gerson Santos da Silva
+1469,Gum
+1470,Sidney de Freitas Pages
+1471,Hiago
+1472,Mateusinho
+1473,Matheus Araújo
+1474,Vinícius Freitas
+1475,Dedé
+1476,Rick
+1477,Álvaro Montoro
+1478,Jaimerson da Silva Papa
+1479,Thallyson
+1480,Edson Carioca
+1481,Daniel Peixoto
+1482,Borges
+1483,Denílson Pereira Neves
+1484,Federico Mancuello
+1485,Lucas Ribeiro de Oliveira
+1486,Wéverton Almeida Santos
+1487,Andrés Fernandes Gonçalves
+1488,Alex Sandro Lobo Silva
+1489,Edmilson dos Santos Silva
+1490,Kieza
+1491,Adriano Pagode
+1492,Douglas dos Santos
+1493,Joaquim Henrique Pereira Silva
+1494,Nicolás de la Cruz
+1495,Marcelo Carné
+1496,Rafael Thyere de Albuquerque Marques
+1497,Rodrigo Becão
+1498,Welinton
+1499,Willie Hortêncio Barbosa
+1500,Uelliton da Silva Vieira
+1501,Wellington Rato
+1502,Sabino
+1503,Daniel Hernández
+1504,Félix Torres
+1505,Raphinha
+1506,Raul
+1507,Rafael Sóbis
+1508,Fernando Leal
+1509,Calebe
+1510,Jarro Pedroso
+1511,Luighi
+1512,Matheus Ferraz Pereira
+1513,Eisner Loboa
+1514,Zezinho
+1515,Sergio Escudero
+1516,Patryck
+1517,Francisco Evanilson de Lima Barbosa
+1518,Darío Conca
+1519,Jackson Caucaia
+1520,Bruno Nazário
+1521,Marcão
+1522,Fábio da Silva Alves
+1523,Everton Messias
+1524,Richardson Fernandes dos Santos
+1525,Jucilei
+1526,Lucas Romero
+1527,Juninho
+1528,Lucas Evangelista
+1529,Marco Antônio Miranda Filho
+1530,Cristian Olivera
+1531,Alexander Aravena
+1532,Kevin Serna
+1533,Edno
+1534,Renato de Araújo Chaves Júnior
+1535,Denis César de Matos
+1536,Roberto
+1537,Gustavo Martins
+1538,Pedro Geromel
+1539,Vinícius Júnior
+1540,Luis Ricardo
+1541,Jorge González
+1542,Douglas Baggio
+1543,Rafael Lima Pereira
+1544,Rafael Tolói
+1545,Felipe Macedo
+1546,Alison Lopes Ferreira
+1547,Gabriel Jesus
+1548,Maximiliano Silvera
+1549,Mauricio Victorino
+1550,Stiven Mendoza
+1551,Luan Dias
+1552,Sidcley Ferreira Pereira
+1553,Douglas Coutinho
+1554,Aldemir Ferreira
+1555,Ramon Menezes Roma
+1556,Caíque Santos
+1557,Aderlan Santos
+1558,William Mendieta
+1559,Natã Felipe
+1560,Jhon Jhon
+1561,João Lucas Cardoso
+1562,Reinier
+1563,Nicolás Lodeiro
+1564,Matheus Mascarenhas
+1565,David Ricardo
+1566,Filipe Augusto Carvalho Souza
+1567,Marcelo Meli
+1568,Maxwell
+1569,Yuri Mamute
+1570,David Terans
+1571,Igor Fernandes da Silva Araújo
+1572,Alisson Safira
+1573,Renato Augusto
+1574,Imanol Machuca
+1575,Álvaro Barreal
+1576,Wellington Clayton Gonçalves dos Santos
+1577,Sueliton Pereira
+1578,João Schmidt
+1579,André Henrique
+1580,Marquinhos
+1581,Matheus Pereira
+1582,Wilder Guisao
+1583,Luiz Gustavo de Almeida
+1584,Wiliam Kozlowski
+1585,Pedro Henrique Naressi Machado
+1586,Diego Cardoso
+1587,André Bahia
+1588,Paolo Guerrero
+1589,Gabriel Baralhas
+1590,Carlos Alcaraz
+1591,Kaio Nunes
+1592,Mário Sérgio Santos Costa
+1593,Jailson Marques Siqueira
+1594,Júlio César Godinho Catole
+1595,Neuciano Gusmão
+1596,Diego
+1597,Ruan Tressoldi Netto
+1598,Pedro Castro
+1599,Derivaldo Beserra Cavalcante
+1600,Guilherme Estrella
+1601,Matheus Nascimento
+1602,Alerrandro Barra Mansa Realino de Souza
+1603,Daniel Villalva
+1604,Felipe Garcia dos Prazeres
+1605,Gérson Magrão
+1606,Felipe Azevedo
+1607,Natanael Batista Pimenta
+1608,David Ricardo Loiola da Silva
+1609,Rhuan
+1610,Lins Lima de Brito
+1611,Maycon Cleiton
+1612,Jhonatan dos Santos Rosa
+1613,Adriano Martins
+1614,Marcos Rogério Ricci Lopes
+1615,Carlos de Pena
+1616,André Felipe Ribeiro de Souza
+1617,Erik Nascimento de Lima
+1618,Juan Dinenno
+1619,Ariel Cabral
+1620,Carlos Eduardo
+1621,Natanael
+1622,David França Oliveira e Silva
+1623,Marlon Rodrigues Xavier
+1624,Lúcio Flávio
+1625,Jean Cléber
+1626,Thiago Neves
+1627,Fabrício Silva Dornellas
+1628,Thuler
+1629,Léo Lisboa
+1630,Lucas Santos Siqueira
+1631,Adalberto dos Santos Rodrigues
+1632,Willian Klaus
+1633,Pablo Dyego
+1634,Carlos Eduardo Antônio dos Santos
+1635,Caio Lopes da Costa Schoell
+1636,Everton Sousa Soares
+1637,Chico da Costa
+1638,Leonardo Silva
+1639,Laércio Soldá
+1640,Danilo Gabriel de Andrade
+1641,Wallace Reis da Silva
+1642,Everton Felipe
+1643,Felipe Pires
+1644,Marcelo Boeck
+1645,Rwan Philipe Rodrigues de Souza Cruz
+1646,Luiz Eduardo Figueiredo
+1647,Alan Steven Franco Palma
+1648,Lucas Mineiro
+1649,Jefferson de Oliveira Galvão
+1650,Léo Duarte
+1651,Bento
+1652,Rafael Bastos
+1653,Gabriel Moscardo
+1654,Alan Ruschel
+1655,Facundo Bernal
+1656,Tony Carvalho
+1657,Jubal Rocha Mendes Júnior
+1658,Wagner Ferreira dos Santos
+1659,Juan Cazares
+1660,Johnny Cardoso
+1661,José Andrés Martínez
+1662,Vladimir Hernández
+1663,Pedro Ken
+1664,Juan Sforza
+1665,Felipe
+1666,Douglas Friedrich
+1667,Luan Michel Louzã
+1668,Carlos Alberto Gomes da Silva Filho
+1669,Arthur Gomes
+1670,Maicosuel
+1671,Lepu
+1672,Walter Leandro Capeloza Artune
+1673,João Victor Andrade Caetano
+1674,Santos
+1675,Giovane
+1676,Rogério Ceni
+1677,João Vitor Lima Gomes
+1678,Júnior Brumado
+1679,Matheus França
+1680,Helibelton Palacios
+1681,Lyncon
+1682,Felipe Saturnino
+1683,Alisson Farias
+1684,Vitinho
+1685,Walisson
+1686,Caio Henrique
+1687,Gilberto Moraes Júnior
+1688,Leonardo Gonçalves Silva
+1689,Fabricio Bustos
+1690,Anderson Pedro da Silva Nunes Campos
+1691,Mathías Villasanti
+1692,Renato Marques
+1693,Benjamín Rollheiser
+1694,Victor Hugo Soares dos Santos
+1695,André Trindade
+1696,Rômulo Borges Monteiro
+1697,Jhon Chancellor
+1698,Paulo Henrique Ganso
+1699,Luanzinho
+1700,Miguel Silveira
+1701,Fábio Szymonek
+1702,Jean Paulo Fernandes Filho
+1703,Aníbal Moreno
+1704,Assuério Barbosa De Sousa
+1705,João Victor da Silva Marcelino
+1706,Douglas Silva Bacelar
+1707,Diego Torres
+1708,Julio Buffarini
+1709,Bruno de Jesus Pacheco
+1710,Ricardo Goulart
+1711,Júlio César Coelho Moraes Júnior
+1712,Douglas Costa
+1713,Luan José Niedzielski
+1714,Ricardo Bueno
+1715,Luís Felipe Dias do Nascimento
+1716,Hércules
+1717,César Benítez
+1718,Márcio Rodrigues Velasco
+1719,Gabriel Santana
+1720,Julimar
+1721,Geuvânio
+1722,Igor Henrique
+1723,Khellven
+1724,Luciano Giménez
+1725,Lucas Poletto
+1726,Luiz Gustavo
+1727,Bruno Mineiro
+1728,Thiago Santos Santana
+1729,Cristiano Claudinei Nogueira
+1730,Luan Polli
+1731,Luiz Filipe
+1732,Júnior Caiçara
+1733,Marcos Antônio
+1734,Matheus Alessandro
+1735,Reinaldo Manoel da Silva
+1736,Renê Santos
+1737,Davi Machado dos Santos Araújo
+1738,Lucas Villalba
+1739,Eros Mancuso
+1740,Juan Tavares
+1741,Cléber Santana
+1742,Vilson Xavier de Menezes Júnior
+1743,Léo Pereira
+1744,Dagoberto Pelentier
+1745,Bruno Guimarães
+1746,Wilker Ángel
+1747,Marcus Vinicius Oliveira Alencar
+1748,Guilherme Castilho
+1749,Nenê
+1750,Bruno Grassi
+1751,Paulinho
+1752,Evertton Araújo
+1753,Gregore
+1754,Jhonny Lucas
+1755,Wellington do Nascimento Silva
+1756,Sidão
+1757,Igor Formiga
+1758,Gustavo Scarpa
+1759,Raul Diogo Souza Rocha
+1760,Darlan Mendes
+1761,Vladimir Orlando Cardoso de Araújo Filho
+1762,Marquinhos Santos
+1763,Carlos de Menezes Júnior
+1764,Wanderson
+1765,Antonio Carlos Capocasali
+1766,Alyson
+1767,Guilherme Bala
+1768,Breno
+1769,Lucas Veríssimo
+1770,Marlon
+1771,Jean Carlos
+1772,Weverton Pereira da Silva
+1773,Lucas Rafael Araújo Lima
+1774,Hernán Arsenio Pérez
+1775,Tiago Luís Martins
+1776,Eguinaldo
+1777,Jonathan Cícero Moreira
+1778,Martín Benítez
+1779,Fernando José da Cunha Neto
+1780,Marcos Guilherme
+1781,Pedro Henrique Konzen
+1782,Matheus Vargas
+1783,Zé Love
+1784,Ezequiel
+1785,Jonathan Copete
+1786,Alexandro Bernabei
+1787,Caju
+1788,Rikelme
+1789,Mariano Ferreira Filho
+1790,Danilo Barcelos
+1791,Hernán Barcos
+1792,Arthur Mendonça Cabral
+1793,Jordan Barrera
+1794,Cláudio Rodrigues Gomes
+1795,Andreazzi
+1796,Nilmar
+1797,Ramón Rodrigo de Freitas
+1798,Ygor Nogueira
+1799,Ariel Nahuelpán
+1800,Felipe Santana
+1801,Guilherme dos Santos Torres
+1802,Francisco Souza dos Santos
+1803,Lucas Sasha
+1804,Kelvin Osorio
+1805,Newton
+1806,Taison
+1807,Lucas Pereira Ramires Constante
+1808,Jefferson Ruan Pereira dos Santos
+1809,Lima
+1810,Luis Phelipe
+1811,Johan Carbonero
+1812,Victor Andrade
+1813,Zé Gabriel
+1814,Wellington Ferreira Nascimento
+1815,Gabriel Xavier
+1816,Vitor Reis
+1817,Ricardo Dias Acosta
+1818,Julio Furch
+1819,Giovanni
+1820,Lucho González
+1821,Jorge Marco de Oliveira Moraes
+1822,Pablo Felipe Teixeira
+1823,Petros
+1824,Jhojan Julio
+1825,Matheus Sales
+1826,Lucas Eduardo Ribeiro de Souza
+1827,Danilo Neves
+1828,Jair Rodrigues Júnior
+1829,Thiago Andrade
+1830,Tobias Figueiredo
+1831,Andrés Gómez
+1832,Héctor Canteros
+1833,Fabián Noguera
+1834,Frazan
+1835,David Duarte
+1836,Jhony
+1837,Rodrigo Eduardo Costa Marinho
+1838,Bryan García
+1839,Diego Gonçalves
+1840,Ademir
+1841,Yago Pikachu
+1842,João Paulo Silva
+1843,Edinho
+1844,Jemerson de Jesus Nascimento
+1845,Pablo Baianinho
+1846,Philipe Sampaio
+1847,João Pedro
+1848,Bruno Lopes
+1849,Arthur Sousa
+1850,Anderson Jordan
+1851,Everson Bispo Pereira
+1852,Damián Suárez
+1853,Luís Henrique Farinhas Taffner
+1854,Matheus Jussa
+1855,Lincoln Corrêa dos Santos
+1856,Fabrício
+1857,Roni
+1858,Pedro Henrique Pereira da Silva
+1859,Renan Oliveira
+1860,João Cruz
+1861,Moisés Roberto Barbosa
+1862,Samuel
+1863,Thomás Jaguaribe Bedinelli
+1864,Kanu
+1865,Matheus Oliveira
+1866,Duvier Riascos
+1867,Raúl Bobadilla
+1868,Jonathan Silva Vieira
+1869,Cássio Ramos
+1870,Leandro Damião
+1871,Marcos Rocha
+1872,Léo Ortiz
+1873,Péricles da Silva Nunes
+1874,Egídio de Araújo Pereira Júnior
+1875,Jean Carlos de Souza Irmer
+1876,Gonzalo Plata
+1877,Thiago Borbas
+1878,Anthoni
+1879,Hugo
+1880,Maicon
+1881,Gabriel Costa França
+1882,Rafael da Silva Francisco
+1883,Fernando Barrientos
+1884,Lucas Pires Silva
+1885,Gustavo Bonatto Barreto
+1886,Leandro Domingues
+1887,Young Moraes
+1888,William Matheus
+1889,Carlos Eduardo Ferreira de Souza
+1890,Marcos Antônio da Silva Gonçalves
+1891,Rafael Vaz
+1892,Uillian Correia
+1893,Isidro Pitta
+1894,Dentinho
+1895,John Kennedy
+1896,Cacá
+1897,William Barbio
+1898,Pablo Galdames Millán
+1899,Hernane Vidal de Souza
+1900,Richarlyson
+1901,Santiago Arias
+1902,Pedro Rocha Neves
+1903,Cícero Vítor dos Santos Júnior
+1904,Samuel Salustiano de Jesus Silva
+1905,Gabriel Martins Rodrigues
+1906,Lucas Taylor
+1907,Luiz Araújo
+1908,Renato Kayzer
+1909,Manoel Messias Silva Carvalho
+1910,Joílson de Jesus Cardoso
+1911,Luís Felipe Oyama
+1912,Rodrigo Freitas
+1913,Luis Carlos Ruiz
+1914,Ronald
+1915,Diego Pituca
+1916,Cris Silva
+1917,Eduardo Brock
+1918,Fabian Guedes
+1919,Bruno Praxedes
+1920,Rafael Lima
+1921,Esteban Pavez
+1922,Fernando Canesin
+1923,Mateus Pasinato
+1924,Felipe Florencio da Silva
+1925,Junior Dutra
+1926,Robinho
+1927,Emiliano Martínez
+1928,Lucas Rafael
+1929,Matheus Jesus
+1930,Caio Canedo Corrêa
+1931,Luiz Antonio Linhares Garcia
+1932,Jackson de Souza
+1933,Felipe Marques
+1934,Werley Ananias da Silva
+1935,Everton Kempes dos Santos Gonçalves
+1936,Bérgson Gustavo Silveira da Silva
+1937,Norberto Pereira Marinho Neto
+1938,Bruno Gonçalves
+1939,Glédson Ribeiro dos Santos
+1940,Giovanni Manson Ribeiro
+1941,Vitor Ricardo
+1942,Vitor Hugo Franchescoli de Souza
+1943,Eder Citadin Martins
+1944,Alecsandro
+1945,Davi Gomes
+1946,Yago Fernando da Silva
+1947,Michael Richard Delgado de Oliveira
+1948,Júlio César Alves Gonçalves
+1949,Alejandro Martinuccio
+1950,Mauro Zárate
+1951,Cristian Ledesma
+1952,Jan Hurtado
+1953,Edimar Fraga
+1954,Sidimar Fernando Sigolini
+1955,Heitor Rodrigues da Fonseca
+1956,Bryan Silva Garcia
+1957,Caio Monteiro
+1958,Marcílio
+1959,Damián Escudero
+1960,Régis
+1961,Ignacio da Silva Oliveira
+1962,Juan Pablo Ramírez Velásquez
+1963,Rodrigo Andrade
+1964,Vitor Roque
+1965,Juninho Quixadá
+1966,David Luiz
+1967,Moisés Dallazen
+1968,Nathan Fernandes
+1969,Endrick
+1970,Fransérgio
+1971,Tadeu Antonio Ferreira
+1972,Nathan Camargo
+1973,Léo Veloso
+1974,Fernandinho
+1975,Joaquim Henrique
+1976,Tiago da Costa Silva
+1977,Rogério Rodrigues da Silva
+1978,Júnior Moraes
+1979,Maikon Leite
+1980,Mantuan
+1981,Carlos Gilberto do Nascimento Silva
+1982,Ângelo Gabriel
+1983,Marcos do Nascimento Teixeira
+1984,Geirton Marques Aires
+1985,Caique da Silva Santos
+1986,Getterson
+1987,Kevin Lomónaco
+1988,Pedro Perotti
+1989,Kaká
+1990,Arthur Viana
+1991,Renan Gorne
+1992,Eugenio Mena
+1993,Edwin Valencia
+1994,William Júnior Salles de Lima Souza
+1995,Leandro Miguel Fernández
+1996,Daniel Amorim
+1997,Jailson
+1998,Silvio Romero
+1999,Ramon Ramos Lima
+2000,Éverson Felipe Marques Pires
+2001,Paulinho Dias
+2002,Gabriel Dias de Oliveira
+2003,Cléverson Gabriel Córdova
+2004,Rodolfo
+2005,Rafael Berger
+2006,Germán Herrera
+2007,Willians Domingos Fernandes
+2008,Gustavo Prado
+2009,Matheus Teixeira
+2010,Wesley França
+2011,Pedro Augusto
+2012,Ferreira
+2013,Lucas Camilo Hernández Perdomo
+2014,Hayner
+2015,Emerson dos Santos da Silva
+2016,Dener Assunção Braz
+2017,Luiz Eduardo
+2018,Cristiano Pereira de Oliveira
+2019,Mariano
+2020,Onitlasi Júnior de Moraes Rodrigues
+2021,Jonathan Calleri
+2022,Thiago Carleto
+2023,Keisuke Honda
+2024,Léo Príncipe
+2025,Guilherme de Queiróz Gonçalves
+2026,Alexandro da Silva Batista
+2027,Miguel Figueira
+2028,Derlan
+2029,David Braz
+2030,Bruno Paulista
+2031,Edu Dracena
+2032,Artur Jesus Vieira
+2033,Leandro
+2034,Colin Kâzım-Richards
+2035,Ayrton Lucas Dantas de Medeiros
+2036,Tiquinho Soares
+2037,Salomon Kalou
+2038,Washington
+2039,Igor Aquino da Silva
+2040,Igor Carius
+2041,Léo Baptistão
+2042,Eltinho
+2043,Ivaldo
+2044,Ignacio Fernández
+2045,Abner
+2046,Fernando José Pacheco Rivas
+2047,Oliveira
+2048,Patric Cabral Lalau
+2049,Marcelino Júnior Lopes Arruda
+2050,Ricardo Ryller
+2051,Elivélton
+2052,Júlio César de Souza Santos
+2053,Franco Di Santo
+2054,Wallisson Luiz
+2055,Kayque Luiz Pereira
+2056,Braian Rodríguez
+2057,Jobson Souza Santos
+2058,Celsinho
+2059,Luís Fabiano
+2060,Islam Slimani
+2061,Dão
+2062,Luís Fernando Lojudice Martinez
+2063,Eduardo Vargas
+2064,João Carlos Heidemann
+2065,Rodrigo Dourado
+2066,Lucho Acosta
+2067,Thauan Lara
+2068,Wellington Daniel Bueno
+2069,Marlos Moreno
+2070,Gabriel Lacerda
+2071,Brian Montenegro
+2072,Jean Raphael Vanderlei Moreira
+2073,Raphael Cavalcante Veiga
+2074,João Magno
+2075,Fabiano Nascimento Vieira de Menezes
+2076,Alan Empereur
+2077,Lucas Araújo
+2078,Tiago Volpi
+2079,Hueglo dos Santos Neris
+2080,Rodrigão
+2081,Marcos Vinicios
+2082,Michel Macedo Rocha Machado
+2083,Marcelo Vieira da Silva Júnior
+2084,Eduardo
+2085,John Victor Maciel Furtado
+2086,Robert Gonçalves Santos
+2087,Breno Lopes
+2088,Sérgio Antônio Borges Júnior
+2089,Léo Realpe
+2090,Guilherme Augusto Dellatorre
+2091,Felipe Melo
+2092,Pablo Maia
+2093,Jenison de Jesus Brito e Brito
+2094,Rafael Donato
+2095,César Bernardo Dutra
+2096,Thonny Anderson
+2097,Gustavo Marques
+2098,Leonardo Valencia
+2099,Joel Carli
+2100,Diego Alves
+2101,Esquerdinha
+2102,Andreas Pereira
+2103,Erison Danilo de Souza
+2104,Rodrigo Nestor
+2105,Emiliano Rodríguez
+2106,Auremir Evangelista dos Santos
+2107,Matheus Leonardo Sales Cardoso
+2108,Orlando Berrío
+2109,Vitor Xavier
+2110,Gilberto Oliveira Souza Junior
+2111,Carlos Júnior
+2112,Rodrigo Vasconcelos Oliveira
+2113,Mycael
+2114,Lourency do Nascimento Rodrigues
+2115,Marcos Leonardo Santos Almeida
+2116,Éder Luís
+2117,Guilherme Mattis
+2118,Marcos Assunção
+2119,Luis Francisco Grando
+2120,Vinicius Réquia Machado
+2121,Oswaldo José Henríquez Bocanegra
+2122,Apodi
+2123,Michel Araújo
+2124,Carlos Eduardo de Oliveira Alves
+2125,Ytalo José dos Santos
+2126,Neto Borges
+2127,Fabián Balbuena
+2128,Thiago Henrique Mendes Ribeiro
+2129,Nicolas Godinho Johann
+2130,Eduardo Figueiredo da Cruz
+2131,Javier Reina
+2132,Pedro Junqueira
+2133,Rafaelson Bezerra Fernandes
+2134,Hélder
+2135,Rômulo
+2136,Léo Gago
+2137,Régis Ribeiro de Souza
+2138,Yan Souto
+2139,Pablo Armero
+2140,Alexsandro de Souza
+2141,Victor Rangel
+2142,Jeci
+2143,Deyverson
+2144,Miranda
+2145,Leonardo da Silva Gomes
+2146,Lucas Pedro de Lima
+2147,Talisson de Almeida
+2148,Kevyson
+2149,Aílton
+2150,Luciano da Rocha Neves
+2151,Leandrinho
+2152,Renan Fonseca
+2153,Júnior Santos
+2154,Neto
+2155,Lisandro López
+2156,Jorge Ortega
+2157,Figueiredo
+2158,Magrão
+2159,Diogo Mateus
+2160,Lawan
+2161,Sérgio Oliveira
+2162,Bruno Vieira Gallo de Oliveira
+2163,Wendson dos Santos Lopes
+2164,Marion Silva Fernandes
+2165,Daniel Guedes
+2166,Stéfano Yuri
+2167,Vitor Hugo
+2168,Derlis González
+2169,Moisés
+2170,Renato Cajá
+2171,Diego Tardelli
+2172,Valdívia
+2173,Leandro Vilela
+2174,Alan Henrique Costa
+2175,Gabriel Fuentes
+2176,Adriel
+2177,Santiago Mariano Rodríguez Molina
+2178,Marcos Vinícius
+2179,Matheus Lima
+2180,Arouca
+2181,Víctor Cáceres
+2182,Diego Oliveira
+2183,Esteban Burgos
+2184,Henrique Gelain Custodio
+2185,Bruno Alves
+2186,Gustavo Nunes
+2187,Luiz Otávio
+2188,Renê Rodrigues Martins
+2189,Raphael Veiga
+2190,Yago Henrique Severino dos Santos
+2191,Luca Orellano
+2192,Alex Alves Cardoso
+2193,Roger Bernardo
+2194,Anderson Lopes
+2195,Diego Matos
+2196,Pedro Rangel
+2197,Gonzalo Tapia
+2198,Danilo Pires
+2199,Ernandes Dias Luz
+2200,Denilson
+2201,Tiepo
+2202,Keno
+2203,Emerson Royal
+2204,Erick Marcus
+2205,Carlos Andrés Sánchez
+2206,Leandro Donizete
+2207,Kaique Rocha
+2208,Anderson Aquino
+2209,Pedro Raúl
+2210,Caio Maia
+2211,Carlos Andrade Souza
+2212,Ronaldo Cesar Soares dos Santos
+2213,Léo Pelé
+2214,Felipe Gedoz
+2215,Rafael Gustavo Meneghel Gava
+2216,Réver
+2217,Igor Julião
+2218,Diego Churín
+2219,Abel Hernández
+2220,Diogo Barbosa
+2221,José Carlos Tofolo Júnior
+2222,Ramón Ábila
+2223,Edison Negueba
+2224,Lucas Fernandes
+2225,Nathan Cardoso
+2226,Matheus Galdezani
+2227,José Carlos Ferreira Filho
+2228,Yilmar Filigrana
+2229,Matheus Cadorini
+2230,Martinelli
+2231,Bernardo Vieira de Souza
+2232,Lucas Mezenga
+2233,Sergio Rochet
+2234,Gabriel Neves
+2235,Éder Lima dos Santos
+2236,Kaiky Fernandes
+2237,Daniel Bessa
+2238,Cuiabano
+2239,Washington Aguerre
+2240,Antônio Eduardo Pereira dos Santos
+2241,Suéliton Florencio Nogueira
+2242,João Paulo
+2243,Giorgian De Arrascaeta
+2244,Paulo André
+2245,Cristian Pavón
+2246,Thallyson Augusto Tavares Dias
+2247,José Rogério de Oliveira Melo
+2248,Egídio
+2249,Rony
+2250,Welinton Júnior
+2251,Héracles Paiva Aguiar
+2252,Roberto César Zardin Rodrigues
+2253,Tauã
+2254,Gustavo Caballero
+2255,Alisson Euler de Freitas Castro
+2256,Kevin Peterson dos Santos Silva
+2257,Matheus Anjos
+2258,Josué
+2259,Cristian Chagas Tarouco
+2260,Mosquito
+2261,Alan Carvalho
+2262,Rômulo Zwarg
+2263,Pedro Henrique Azevedo Pereira
+2264,Luiz Rhodolfo Dini Gaioto
+2265,Gleison Bremer
+2266,Lucas Lovat
+2267,Ceará
+2268,Frickson Erazo
+2269,Rafael de Jesus Bonfim
+2270,Wendel Santana Pereira Santos
+2271,Ramón Martínez López
+2272,Vinícius Tanque
+2273,Fernando Miguel Kaufmann
+2274,Braian Romero
+2275,Puma Rodríguez
+2276,Diones
+2277,Diogo Batista
+2278,Glekson Marrone
+2279,Agustín Canobbio
+2280,Nicolás Acevedo
+2281,Christián Vilches
+2282,Patryck Lanza
+2283,Bruno Santos
+2284,Lucas Cândido
+2285,Iago Dias
+2286,Marcelo Mattos
+2287,Charles Rigon Matos
+2288,Thiago Lopes
+2289,Eric dos Santos Rodrigues
+2290,Rafael William Dias Pinheiro
+2291,Matías Arezo
+2292,Gabriel Barros
+2293,Igor Vinícius
+2294,Mariano Vázquez
+2295,Jean Lucas Figueiredo
+2296,Renzo Saravia
+2297,Martín Sarrafiore
+2298,Ratinho
+2299,Guilherme Natan de Lima
+2300,Leonardo Artur de Melo
+2301,Carlinhos
+2302,Hermenegildo da Costa Paulo Bartolomeu
+2303,Nino
+2304,Facundo Torres
+2305,Euller
+2306,Lucas Pratto
+2307,Warley
+2308,Rodrigo Fernández
+2309,André Ramalho
+2310,Filipe Machado
+2311,Talles Macedo Toledo Costa
+2312,Sebastián Gómez
+2313,Guilherme Arana
+2314,Elton Rodrigues Brandão
+2315,Eduardo da Silva
+2316,Maicon Pereira Roque
+2317,Nicolás Hernández
+2318,Raylan
+2319,Lucas Paquetá
+2320,Iago Maidana
+2321,Neto Baiano
+2322,Felipe Carballo
+2323,Geferson Cerqueira Teles
+2324,Deivid Willian da Silva
+2325,Joel Campbell
+2326,Tiago Pagnussat
+2327,Matheus Bianqui
+2328,Jacob Montes
+2329,Clayton
+2330,Matheus Cunha Queiroz
+2331,William de Asevedo Furtado
+2332,Lucas da Sliva Justen
+2333,Nathanael Ananias da Silva
+2334,Gustavo Henrique Pereira
+2335,Gustavo Garcia
+2336,Cleber Reis
+2337,Charles Luis Reiter
+2338,Luciano Juba
+2339,Bruno Felipe de Oliveira
+2340,Jeferson
+2341,Bernard
+2342,Carlos César Neves
+2343,Rodrigo Souza
+2344,Lucas Ronier
+2345,Anthony Landázuri
+2346,Rafael Pereira dos Santos
+2347,Anderson Pico
+2348,Magno Alves
+2349,Júnior César
+2350,Willian Cordeiro
+2351,Lucas Otávio
+2352,Walter Bou
+2353,Edenílson Andrade dos Santos
+2354,Natã
+2355,Carlos Eduardo Marques
+2356,Pablo Siles
+2357,Anselmo de Moraes
+2358,Gabriel Barbosa Almeida
+2359,Marrony
+2360,Neymar
+2361,Nathan Santos
+2362,Fredy Guarín
+2363,Éverton Santos
+2364,Diogo de Oliveira Barbosa
+2365,Edcarlos
+2366,Gustavo
+2367,Lucão
+2368,Martin Braithwaite
+2369,Bruno Edgar
+2370,Rodrigo Moledo
+2371,Anderson da Silva
+2372,Rafael Grampola
+2373,Moisés Lima Magalhães
+2374,Juan Santos da Silva
+2375,Matheus Dias
+2376,Matheus Alves da Silva Cardoso
+2377,Wendel
+2378,Edigar Junio
+2379,Leandro Almeida
+2380,Oswaldo
+2381,Douglas Pereira dos Santos
+2382,Willian Farias
+2383,Daniel Sampaio Simões
+2384,Rodolfo de Melo
+2385,Vinicinho
+2386,Jonas Toró
+2387,Fernando Paixão da Silva
+2388,Juan Quintero Fletcher
+2389,Diego Cavalieri
+2390,Juninho Piauiense
+2391,Heron Crespo da Silva
+2392,José Élber Pimentel da Silva
+2393,Rubens
+2394,Cristian Baroni
+2395,Ronaldinho Gaúcho
+2396,Victor Gabriel
+2397,Luanderson Johnala Marques da Silva
+2398,Tomás Rincón
+2399,Abuda
+2400,Carlos Enrique Rentería
+2401,Vitão
+2402,Rafhael Lucas
+2403,Wendel Geraldo Maurício e Silva
+2404,Jaminton Campaz
+2405,Ronald Pereira Martins
+2406,Carlos Cuesta
+2407,Marcelo Moreno
+2408,Danilo Barbosa da Silva
+2409,Matheus Barbosa Teixeira
+2410,Ygor Catatau
+2411,Diogo Luís Santo
+2412,José Manuel Alberto López
+2413,Róbson Michael Signorini
+2414,Luan Madson Gedeão de Paiva
+2415,Robson Azevedo da Silva
+2416,Pedro Henrique Ribeiro Gonçalves
+2417,Capa
+2418,Mayke
+2419,José Renato da Silva Júnior
+2420,Rodrigo Caio
+2421,Rafael Marques Pinto
+2422,Matías Galarza
+2423,Dener Gonçalves Pinheiro
+2424,Ryan Francisco
+2425,Pedro
+2426,Richard Candido Coelho
+2427,William Pottker
+2428,Rithely
+2429,Pablo Mouche
+2430,João Afonso
+2431,João Gomes
+2432,Diego Terra Loureiro
+2433,Joaquín Piquerez
+2434,Emerson Santos
+2435,Kozlinski
+2436,Robert Renan
+2437,Gustavo César Mendonça Gravino
+2438,Rafael Elias
+2439,Bruno Tubarão
+2440,Yago
+2441,Francinilson Santos Meirelles
+2442,Bruno Bispo
+2443,Hyuri
+2444,Éverton Ribeiro
+2445,Matías Viña
+2446,Luis Aguiar
+2447,Jefferson Savarino
+2448,Léo Matos
+2449,Nahuel Ferraresi
+2450,Thalisson Kelven
+2451,Moisés Vieira da Veiga
+2452,Vitor Hugo Naum dos Santos
+2453,Rodrigo Junior Paula Silva
+2454,Guilherme Romão
+2455,Memphis Depay
+2456,Lucas Marques
+2457,Zé Marcos
+2458,Júlio César da Silva e Souza

@@ -1,0 +1,15 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Dados (Ignorar apenas os dados brutos para não pesar o Git)
+data/raw/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
